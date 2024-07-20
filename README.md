@@ -8,4 +8,5 @@ Ephemeral Theme for lazygit
   ```
   lazygit --use-config-file="$HOME/.config/lazygit/themes/ephemeral.yml"
   ```
-### NOTE: The background color depends on your terminal, to have the ephemeral background color as the one used in the doom emacs theme set  your terminal background to `#28323E`
+### NOTE: 
+The background color depends on your terminal, to have the ephemeral background color as the one used in the doom emacs theme set  your terminal background to `#28323E`
